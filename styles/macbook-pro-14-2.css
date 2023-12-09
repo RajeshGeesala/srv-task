@@ -1,0 +1,2433 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.macbook-pro-14-2-Qg5 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 {
+  box-sizing: border-box;
+  padding: 3.7rem 3.8rem 7.6rem 3.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-fgnh-ryK {
+  margin: 0rem 91.1rem 5.2rem 0rem;
+  width: calc(100% - 91.1rem);
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-fgnh-ryK .auto-group-wycq-JqK {
+  margin: 0.3rem 5rem 0rem 0rem;
+  width: 3.1rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0; 
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-fgnh-ryK .auto-group-jfbt-NqB {
+  box-sizing: border-box;
+  padding: 0.5rem 1.4rem 0.7rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(250, 250, 250, 0.3535999907);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-fgnh-ryK .auto-group-jfbt-NqB .auto-group-cbju-Trd {
+  margin: 0rem 1.5rem 0.3rem 0rem;
+  width: 1.5rem;
+  height: 1.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-fgnh-ryK .auto-group-jfbt-NqB .line-5-VYR {
+  margin: 0.1rem 37.2rem 0rem 0rem;
+  width: 0.1rem;
+  height: 1.5rem;
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-fgnh-ryK .auto-group-jfbt-NqB .auto-group-atud-wvD {
+  margin-bottom: 0.3rem;
+  width: 1.8rem;
+  height: 0.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-2xvv-LhT {
+  margin: 0rem 9.1rem 3.8rem 9rem;
+  width: calc(100% - 18.1rem);
+  height: 3.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-2xvv-LhT .auto-group-bhau-wSM {
+  margin-right: 7.7rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffac30;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.2rem #ffac30;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-2xvv-LhT .compare-W85 {
+  margin: 0rem 0.4rem 0.4rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-2xvv-LhT .polygon-1-BED {
+  margin: 0rem 9.9rem 0.2rem 0rem;
+  width: 1.7rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-2xvv-LhT .images-etV {
+  margin: 0rem 8.2rem 0.4rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-2xvv-LhT .user-reviews-idT {
+  margin: 0rem 8.2rem 0.4rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-2xvv-LhT .varients-oQ1 {
+  margin: 0rem 8.2rem 0.4rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-2xvv-LhT .videos-VGq {
+  margin: 0rem 8.2rem 0.4rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-2xvv-LhT .more-yxh {
+  margin: 0.2rem 0.9rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-2xvv-LhT .polygon-2-sYH {
+  margin-top: 0.4rem;
+  width: 1.7rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-ekqb-y5X {
+  margin: 0 6.6rem;
+  width: calc(100% - 13.2rem);
+  height: 94.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-ekqb-y5X .xuv-700-uE5 {
+  width: 130.4rem;
+  height: 38.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 30rem;
+  font-weight: 400;
+  line-height: 1.2775;
+  color: #55c2ff;
+  font-family: Allerta Stencil, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-ekqb-y5X .xuv700cdn-1-bsb {
+  width: 93.5rem;
+  height: 62.5rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 23.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-jp1t-aU5 .auto-group-ekqb-y5X .with-its-sci-fi-technology-spirited-performance-and-world-class-safety-this-powerhouse-of-an-suv-is-obsessively-engineered-to-dial-up-adrenaline-like-never-before-iSR {
+  width: 80.1rem;
+  height: 9rem;
+  position: absolute;
+  left: 26.55rem;
+  top: 85.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 {
+  width: 100%;
+  height: 146rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po {
+  width: 161.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .annie-spratt-nwe6rxnktnm-unsplash-1-kXX {
+  opacity: 0.25;
+  width: 161.8rem;
+  height: 143rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .rectangle-17-Twj {
+  width: 94.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 140.1rem;
+  background-color: rgba(245, 245, 245, 0.2800000012);
+  border-radius: 1.2rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .engine-N37 {
+  width: 5.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 72.4rem;
+  top: 5.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .transmission-TqF {
+  width: 9.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 72.4rem;
+  top: 18.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .safety-NxD {
+  width: 4.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 103.3rem;
+  top: 5.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .reviews-JL5 {
+  width: 8.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 50.4rem;
+  top: 14.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffac30;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .seating-capacity-Amb {
+  width: 13.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 103rem;
+  top: 18.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .body-type-gV3 {
+  width: 8.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 127.9rem;
+  top: 5.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .fuel-type-CiH {
+  width: 7.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 128rem;
+  top: 19rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .to-2184-cc-DtH {
+  width: 11.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 72.4rem;
+  top: 7.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .manual-automatic-tc-v21 {
+  width: 19.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 72.5rem;
+  top: 20.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .seater-RUZ {
+  width: 9.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 103rem;
+  top: 20.6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .star-global-ncap-k13 {
+  width: 15.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 103.3rem;
+  top: 7.7rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .petrol-diesel-rZs {
+  width: 11.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 128rem;
+  top: 21rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .suv-NYD {
+  width: 3.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 128rem;
+  top: 8rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .the-mahindra-xuv700-has-1-diesel-engine-and-1-petrol-engine-on-offer-the-diesel-engine-is-2198-cc-while-the-petrol-engine-is-1999-cc-it-is-available-with-automatic-manual-transmission-depending-upon-the-variant-and-fuel-type-the-xuv700-has-a-mileage-of-the-xuv700-is-a-7-seater-4-cylinder-car-and-has-length-of-4695-width-of-1890-and-a-wheelbase-of-2750-tmT {
+  width: 61.2rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 71.3rem;
+  top: 30rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .the-price-of-mahindra-xuv700-starts-at-rs-1318-lakh-and-goes-upto-rs-2458-lakh-mahindra-xuv700-is-offered-in-23-variants-the-base-model-of-xuv700-is-mx-and-the-top-variant-mahindra-xuv700-ax7-diesel-at-luxury-pack-awd-which-comes-at-a-price-tag-of-rs-2458-lakh-3nm {
+  width: 67rem;
+  height: 17.6rem;
+  position: absolute;
+  left: 14rem;
+  top: 104.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .rs1318-2458-lakh-dW5 {
+  width: 30.6rem;
+  height: 4rem;
+  position: absolute;
+  left: 34.8rem;
+  top: 17.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .mahindra-jJD {
+  width: 30.6rem;
+  height: 8rem;
+  position: absolute;
+  left: 34.8rem;
+  top: 0;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .mahindra-xuv700-price-TED {
+  width: 41rem;
+  height: 16rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 87.2rem;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .xuv-700-MqP {
+  width: 19.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 35rem;
+  top: 7rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .vector-GxM {
+  width: 1.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 47.8rem;
+  top: 13.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .vector-ztM {
+  width: 2.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 34.8rem;
+  top: 13.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .vector-LBX {
+  width: 2.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 38.3rem;
+  top: 13.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .vector-GL5 {
+  width: 2.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 41.6rem;
+  top: 13.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .vector-bdF {
+  width: 2.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 44.7rem;
+  top: 13.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .vector-vfX {
+  width: 5.1rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 72.4rem;
+  top: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .vector-s4y {
+  width: 3.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 103.3rem;
+  top: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .vector-yNu {
+  width: 4.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 128.2rem;
+  top: 14.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .vector-7ED {
+  width: 4.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 72.5rem;
+  top: 14rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .vector-FLR {
+  width: 3.4rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 103.2rem;
+  top: 14.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .group-BE5 {
+  width: 6.2962rem;
+  height: 2.5378rem;
+  position: absolute;
+  left: 128rem;
+  top: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .rectangle-16-iE1 {
+  width: 31.7rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 71.3rem;
+  top: 58.8rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffac30;
+  border-radius: 2.6rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .check-current-offers-zSR {
+  width: 21.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 73.6rem;
+  top: 60.3rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .mahindra-xuv700-16329844904x3-removebg-preview-1-Ve5 {
+  width: 64.1rem;
+  height: 48.2rem;
+  position: absolute;
+  left: 81.8rem;
+  top: 75.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .all-varients-CoP {
+  width: 15.5rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 131.8rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffac30;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .line-11-7QZ {
+  width: 15.5rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 136.1rem;
+  background-color: #ffac30;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .diesel-version-Sxd {
+  width: 16rem;
+  height: 3rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 132.5rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .varient-mV7 {
+  width: 8.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 140.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .price-gc5 {
+  width: 6.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 54.2rem;
+  top: 140.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .petrol-version-oRo {
+  width: 15.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 62.1rem;
+  top: 132.5rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .auto-group-qcih-4Po .automatic-version-iof {
+  width: 20.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 132.2rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-9tyk-Wt5 .ellipse-2-RCH {
+  margin: 0rem 89.8rem 8.1rem 0rem;
+  width: 57.7rem;
+  height: 52.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 {
+  width: 100%;
+  height: 643.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-9je9-oTj {
+  width: 144.4rem;
+  height: 52rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 535.9rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-9je9-oTj .mahindraxuv5003-1-iqb {
+  width: 63.4rem;
+  height: 47.5rem;
+  position: absolute;
+  left: 81rem;
+  top: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-9je9-oTj .mahindra-xuv700-2022-has-videos-of-its-detailed-review-pros-cons-comparison-variant-explainedtest-drive-experience-features-specs-interior-exterior-details-and-more-watch-our-latest-hindi-video-of-mahindra-xuv700-to-know-price-safety-features-more-ejF {
+  width: 45.9rem;
+  height: 19.1rem;
+  position: absolute;
+  left: 33rem;
+  top: 24.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5849999428;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-9je9-oTj .mahindra-xuv700-FU9 {
+  width: 81.6rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 9.6rem;
+  font-weight: 300;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-9je9-oTj .related-videos-Ar1 {
+  width: 72.9rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 9.3rem;
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-9je9-oTj .ellipse-4-Gu3 {
+  width: 16.2rem;
+  height: 16.2rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 24.9rem;
+  background-color: #ffffff;
+  border-radius: 8.1rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-9je9-oTj .polygon-8-bgR {
+  width: 8.6rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 28.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-s1kj-jXj {
+  box-sizing: border-box;
+  padding: 0.7rem 5.3rem 0.6rem 2.3rem;
+  width: 102rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 78.3rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(245, 245, 245, 0.2800000012);
+  border-radius: 1.2rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-s1kj-jXj .fuel-type-Dho {
+  margin-right: 13rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-s1kj-jXj .transmission-9rM {
+  margin-right: 13.3rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-s1kj-jXj .arai-mileage-tow {
+  margin-right: 11.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-s1kj-jXj .city-mileage-S4m {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #55c2ff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .kmeq8ua1549535-removebg-preview-1-Lvq {
+  width: 92.5rem;
+  height: 52.1rem;
+  position: absolute;
+  left: 0;
+  top: -124.2rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .kmeq8ua1549535-removebg-preview-1-Lvq .kmeq8ua1549535-removebg-preview-1-TVf {
+  width: 92.5rem;
+  height: 52.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .the-claimed-arai-mileage-the-claimed-arai-mileage-for-the-automatic-variants--M5F {
+  width: 60.8rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 67.5rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2850000064;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .mahindra-xuv700-mileage-DdF {
+  width: 49.6rem;
+  height: 16rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 51.1rem;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw {
+  width: 90.2rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 1.6rem;
+  display: flex;
+  align-items: center;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw .auto-group-blvb-EoF {
+  margin: 0rem 14.6rem 1.6rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw .auto-group-blvb-EoF .xuv700-mx-xjF {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw .auto-group-blvb-EoF .cc-manual-petrol-uPb {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw .auto-group-blvb-EoF .more-than-2-months-waiting-SeR {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw .rs1318-lakh-get-on-road-price-aVj {
+  margin: 1.7rem 17.8rem 0rem 0rem;
+  max-width: 15.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw .rs1318-lakh-get-on-road-price-aVj .rs1318-lakh-get-on-road-price-aVj-sub-0 {
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw .rs1318-lakh-get-on-road-price-aVj .rs1318-lakh-get-on-road-price-aVj-sub-1 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffac30;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw .auto-group-rf1f-dkq {
+  margin: 1.7rem 0rem 4rem 0rem;
+  width: 17rem;
+  height: calc(100% - 5.7rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw .auto-group-rf1f-dkq .view-offers-Yso {
+  width: 10.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 0.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-l6xd-Xdw .auto-group-rf1f-dkq .rectangle-18-4bF {
+  width: 17rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffac30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z {
+  width: 90.3rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 14.4rem;
+  display: flex;
+  align-items: center;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z .auto-group-vcjx-rn1 {
+  margin: 0rem 14.6rem 2rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z .auto-group-vcjx-rn1 .xuv700-mx-diesel-C5B {
+  margin-bottom: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z .auto-group-vcjx-rn1 .cc-manual-diesel-Wbf {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z .auto-group-vcjx-rn1 .more-than-2-months-waiting-r9j {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z .rs1370-lakh-get-on-road-price-Nds {
+  margin: 2.5rem 17.2rem 0rem 0rem;
+  max-width: 16.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z .rs1370-lakh-get-on-road-price-Nds .rs1370-lakh-get-on-road-price-Nds-sub-0 {
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z .rs1370-lakh-get-on-road-price-Nds .rs1370-lakh-get-on-road-price-Nds-sub-1 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffac30;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z .auto-group-gkdw-ezh {
+  margin: 2.4rem 0rem 4.1rem 0rem;
+  width: 17rem;
+  height: calc(100% - 6.5rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z .auto-group-gkdw-ezh .view-offers-y1P {
+  width: 10.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 0.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-qy5t-M4Z .auto-group-gkdw-ezh .rectangle-19-Uiq {
+  width: 17rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffac30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb {
+  width: 90.3rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 27.6rem;
+  display: flex;
+  align-items: center;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb .auto-group-56rj-LFF {
+  margin: 0rem 14.6rem 2.4rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb .auto-group-56rj-LFF .xuv700-ax3-SJH {
+  margin: 0rem 0rem 0.4rem 0.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb .auto-group-56rj-LFF .cc-manual-petrol-x1j {
+  margin-left: 0.1rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb .auto-group-56rj-LFF .more-than-2-months-waiting-seV {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb .rs1528-lakh-get-on-road-price-bKb {
+  margin: 2.9rem 17.3rem 0rem 0rem;
+  max-width: 16rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb .rs1528-lakh-get-on-road-price-bKb .rs1528-lakh-get-on-road-price-bKb-sub-0 {
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb .rs1528-lakh-get-on-road-price-bKb .rs1528-lakh-get-on-road-price-bKb-sub-1 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #ffac30;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb .auto-group-foqw-1nd {
+  margin: 3.3rem 0rem 3.6rem 0rem;
+  width: 17rem;
+  height: calc(100% - 6.9rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb .auto-group-foqw-1nd .view-offers-XW5 {
+  width: 10.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 0.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uojd-QMb .auto-group-foqw-1nd .rectangle-20-SN9 {
+  width: 17rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffac30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jx8v-Mzu {
+  width: 90.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 85.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jx8v-Mzu .diesel-T2M {
+  margin: 0.6rem 16.9rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jx8v-Mzu .manual-9Qy {
+  margin-right: 20.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jx8v-Mzu .kmpl-H1P {
+  margin-right: 16.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jx8v-Mzu .kmpl-1xy {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jghb-MG9 {
+  width: 92.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 91.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jghb-MG9 .diesel-Ge1 {
+  margin: 0.6rem 17rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jghb-MG9 .automatic-15o {
+  margin-right: 16.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jghb-MG9 .kmpl-jnV {
+  margin-right: 16.3rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jghb-MG9 .kmpl-fRF {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-se7w-oXT {
+  width: 90.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 97.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-se7w-oXT .petrol-HBj {
+  margin: 0.6rem 16.9rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-se7w-oXT .manual-biD {
+  margin-right: 20.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-se7w-oXT .kmpl-YNZ {
+  margin-right: 16.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-se7w-oXT .kmpl-Hb3 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-5ald-SD3 {
+  width: 91.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 103.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-5ald-SD3 .petrol-APw {
+  margin: 0.6rem 16.9rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-5ald-SD3 .automatic-tqj {
+  margin-right: 16.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-5ald-SD3 .kmpl-3Cq {
+  margin-right: 17.6rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-5ald-SD3 .kmpl-AoF {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-wsp7-Ws7 {
+  width: 14.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 89rem;
+  top: 41.1rem;
+  display: flex;
+  align-items: center;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-wsp7-Ws7 .view-more-cfF {
+  margin-right: 1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffac30;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-wsp7-Ws7 .polygon-3-M73 {
+  margin-top: 0.2rem;
+  width: 1.3rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .line-19-533 {
+  width: 100.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 90rem;
+  background-color: #ffffff;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .line-20-AqB {
+  width: 100.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 96.1rem;
+  background-color: #ffffff;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .line-21-VsT {
+  width: 100.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 102.5rem;
+  background-color: #ffffff;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-kceh-S21 {
+  width: 144.9rem;
+  height: 43.9rem;
+  position: absolute;
+  left: 0;
+  top: 281.4rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-kceh-S21 .efd0adb4b7f4d558f8d011cf68d9606f-1-NRT {
+  width: 79.9rem;
+  height: 43.9rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 394.604%;
+  background-position: 0 -71.2172rem;
+  background-image: url('../assets/efd0adb4b7f4d558f8d011cf68d9606f-1.png');
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-kceh-S21 .if-you-are-in-the-market-looking-for-any-kind-of-suv-for-your-family-the-xuv700-first-gets-all-the-basics-right-and-then-impress-you-with-its-segment-first-features-rbX {
+  width: 75.9rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 63.9rem;
+  top: 18.9rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.4649999142;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-kceh-S21 .take-on-mahindra-xuv700-eXP {
+  width: 61rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 63.3rem;
+  top: 11.1rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-kceh-S21 .pros-and-cons-Lf7 {
+  width: 57.5rem;
+  height: 12.3rem;
+  position: absolute;
+  left: 62.8rem;
+  top: 0;
+  font-size: 9.6rem;
+  font-weight: 600;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-kceh-S21 .pros-and-cons-Lf7 .pros-and-cons-Lf7-sub-0 {
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-kceh-S21 .pros-and-cons-Lf7 .pros-and-cons-Lf7-sub-1 {
+  font-size: 9.6rem;
+  font-weight: 100;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Spartan, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-kceh-S21 .pros-and-cons-Lf7 .pros-and-cons-Lf7-sub-2 {
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vvop-soT {
+  width: 180.9rem;
+  height: 54.9rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 114.3rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vvop-soT .mahindra-xuv-700-launch-featured-2-cFF {
+  width: 105.6rem;
+  height: 54.9rem;
+  position: absolute;
+  left: 75.3rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vvop-soT .with-so-many-segment-first-features-drivetrains-seating-and-variant-options-the-xuv700-is-trying-to-please-everyone-but-does-it-get-the-basics-right-to-first-get-into-your-consideration-wHX {
+  width: 78.9rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 32.2rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.4649999142;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vvop-soT .expert-advice-mXT {
+  width: 58.8rem;
+  height: 12.3rem;
+  position: absolute;
+  left: 0;
+  top: 18.5rem;
+  font-size: 9.6rem;
+  font-weight: 600;
+  line-height: 1.2800000509;
+  color: #ffffff;
+  font-family: Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vvop-soT .heres-some-sKb {
+  width: 32.3rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 11.6rem;
+  font-size: 6.4rem;
+  font-weight: 200;
+  line-height: 1.2800000906;
+  color: #ffac30;
+  font-family: Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vr9o-ZTK {
+  width: 113.6rem;
+  height: 88.1rem;
+  position: absolute;
+  left: 13.4rem;
+  top: 184rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vr9o-ZTK .while-the-platform-is-all-new-mahindra-has-decided-to-retain-the-essence-of-the-xuv500-in-the-700s-design-paying-homage-to-the-500-are-the-new-headlamps-where-the-c-shape-is-maintained-by-the-led-drls-however-these-pack-an-all-led-beam-and-the-indicators-are-dynamic-as-well-complementing-these-are-more-leds-in-the-fog-lamps-which-also-feature-cornering-lights-the-headlamps-flow-in-the-slats-of-the-grille-which-features-an-aggressive-design-the-bonnet-too-gets-strong-creases-which-adds-muscle-to-the-front-look-for-the-700-safe-to-say-you-wont-be-confusing-the-xuv700-with-anything-on-the-road-when-you-see-one-at-night-6CM {
+  width: 113.6rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5849998792;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vr9o-ZTK .view-more-id3 {
+  width: 12rem;
+  height: 3rem;
+  position: absolute;
+  left: 49.4rem;
+  top: 77.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffac30;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vr9o-ZTK .rectangle-21-RnM {
+  width: 20.9rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 46rem;
+  top: 76.5rem;
+  border: solid 0.2rem #ffac30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vr9o-ZTK .polygon-5-9TT {
+  width: 1.3rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 62.4rem;
+  top: 78.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-vr9o-ZTK .bb1feaedee8d5f38fe8e6e78a5fba8d-removebg-preview-1-5M7 {
+  width: 103rem;
+  height: 71.5rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 16.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm {
+  width: 115.7rem;
+  height: 30.7rem;
+  position: absolute;
+  left: 13.9rem;
+  top: 475.2rem;
+  display: flex;
+  align-items: center;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-avow-ub3 {
+  margin-right: 2.7rem;
+  width: 36.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-avow-ub3 .it-is-a-fantastic-car-with-good-mileage-features-looks-performance-and-build-quality-are-the-best-3BT {
+  width: 29rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 5.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5849999428;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-avow-ub3 .by-mahendrakumar-baviskar-on-aug-18-2022-193-views-JdB {
+  width: 17.8rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 25.1rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.2499998533;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-avow-ub3 .vector-yzD {
+  width: 1.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-avow-ub3 .vector-VxZ {
+  width: 1.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-avow-ub3 .vector-QZj {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-avow-ub3 .vector-JQD {
+  width: 2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-avow-ub3 .vector-q9F {
+  width: 2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-avow-ub3 .rectangle-23-mYh {
+  width: 36.7rem;
+  height: 30.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #ffffff;
+  box-sizing: border-box;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-hbe5-gff {
+  margin-right: 2.9rem;
+  width: 36.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-hbe5-gff .it-is-a-fantastic-car-with-good-mileage-features-looks-performance-and-build-quality-are-the-best-pG5 {
+  width: 29rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 5.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5849999428;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-hbe5-gff .by-mahendrakumar-baviskar-on-aug-18-2022-193-views-sk9 {
+  width: 17.8rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 25.1rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.2499998533;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-hbe5-gff .vector-8Zb {
+  width: 1.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-hbe5-gff .vector-Ecd {
+  width: 1.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-hbe5-gff .vector-aRb {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-hbe5-gff .vector-iXo {
+  width: 2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-hbe5-gff .vector-fT3 {
+  width: 2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-hbe5-gff .rectangle-24-oZF {
+  width: 36.7rem;
+  height: 30.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #ffffff;
+  box-sizing: border-box;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-letm-Lp5 {
+  width: 36.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-letm-Lp5 .it-is-a-fantastic-car-with-good-mileage-features-looks-performance-and-build-quality-are-the-best-Gxd {
+  width: 29rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 5.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5849999428;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-letm-Lp5 .by-mahendrakumar-baviskar-on-aug-18-2022-193-views-kso {
+  width: 17.8rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 25.1rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.2499998533;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-letm-Lp5 .vector-eyB {
+  width: 1.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-letm-Lp5 .vector-Pfs {
+  width: 1.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-letm-Lp5 .vector-LLD {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-letm-Lp5 .vector-fdP {
+  width: 2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-letm-Lp5 .vector-1hF {
+  width: 2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-4wrh-aYm .auto-group-letm-Lp5 .rectangle-25-keq {
+  width: 36.7rem;
+  height: 30.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #ffffff;
+  box-sizing: border-box;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-6bgh-tW9 {
+  width: 114.4rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 17.7rem;
+  top: 336.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-6bgh-tW9 .absolutely-amazing-pPo {
+  margin-right: 18.5rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4649999407;
+  color: #00b96b;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-6bgh-tW9 .road-presence-sheer-size-with-a-commanding-stance-and-loads-of-visual-appeal-9BB {
+  margin-top: 1.5rem;
+  max-width: 61.7rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-fbq7-Qso {
+  width: 111.8rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 384.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-fbq7-Qso .could-have-been-better-94h {
+  margin-right: 11.5rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4649999407;
+  color: #fe5959;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-fbq7-Qso .not-the-quietest-diesel-theres-some-drivetrain-lash-when-using-the-throttle-rUu {
+  margin-top: 1.1rem;
+  max-width: 59.2rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .firm-ride-quality-its-only-at-slow-speeds-that-the-ride-can-get-bothersome-Z8R {
+  width: 61.1rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 69.9rem;
+  top: 395.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .last-row-ingress-egress-the-absence-of-a-sliding-second-row-makes-it-even-worse-q5w {
+  width: 56.7rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 69.7rem;
+  top: 405.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .airy-cabin-more-spacious-than-the-alcazar-and-almost-as-roomy-as-the-safari-73T {
+  width: 53.9rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 70.4rem;
+  top: 347.1rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .capable-powertrains-the-powertrain-options-effortlessly-power-the-bulky-xuv700-CKo {
+  width: 52rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 70.4rem;
+  top: 355.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .unique-feel-good-features-it-offers-a-range-of-feel-good-features-missing-from-rivals-V41 {
+  width: 58rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 70.4rem;
+  top: 365.7rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP {
+  width: 92.1rem;
+  height: 44rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 418.3rem;
+  display: flex;
+  align-items: flex-end;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .item--VCR {
+  font-size: 30rem;
+  font-weight: 400;
+  line-height: 1.4649998983;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD {
+  width: 81.6rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-wkof-NGD {
+  width: 100%;
+  height: 22.6rem;
+  position: relative;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-wkof-NGD .mahindra-xuv700-7jb {
+  width: 81.6rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 9.6rem;
+  font-weight: 300;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-wkof-NGD .user-review-VtZ {
+  width: 58.8rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 8.5rem;
+  font-size: 9.6rem;
+  font-weight: 600;
+  line-height: 1.4649998347;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-p6cd-R1X {
+  margin-left: 0.8rem;
+  display: flex;
+  align-items: center;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-p6cd-R1X .vector-MA5 {
+  margin: 0.4rem 1rem 0rem 0rem;
+  width: 5.2rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-p6cd-R1X .vector-sPK {
+  margin: 0.4rem 1.4rem 0rem 0rem;
+  width: 5.2rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-p6cd-R1X .vector-QPF {
+  margin: 0.4rem 1rem 0rem 0rem;
+  width: 5.2rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-p6cd-R1X .vector-jgR {
+  margin: 0.4rem 1rem 0rem 0rem;
+  width: 5.2rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-p6cd-R1X .vector-t3X {
+  margin: 0.6rem 3.3rem 0rem 0rem;
+  width: 2.6rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-p6cd-R1X .item-45-R3T {
+  margin-right: 1rem;
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.4649999142;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-scer-xTP .auto-group-6gtv-DeD .auto-group-p6cd-R1X .from-our-108-users-9VF {
+  margin-top: 3.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4649998801;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jgeh-UXX {
+  width: 104.8rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 13.7rem;
+  top: 172.6rem;
+  display: flex;
+  align-items: center;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jgeh-UXX .exterior-zEy {
+  margin-right: 6rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2800000906;
+  color: #ffac30;
+  font-family: Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jgeh-UXX .polygon-4-5nD {
+  margin: 0.7rem 10.5rem 0rem 0rem;
+  width: 2rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jgeh-UXX .interior-PY1 {
+  margin-right: 16.7rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2800000906;
+  color: #ffffff;
+  font-family: Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jgeh-UXX .performance-iqB {
+  margin-right: 20.2rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2800000906;
+  color: #ffffff;
+  font-family: Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-jgeh-UXX .verdict-rgV {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2800000906;
+  color: #ffffff;
+  font-family: Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-3vgh-CEZ {
+  width: 20.9rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 59.5rem;
+  top: 515.3rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-3vgh-CEZ .view-more-7MX {
+  width: 12rem;
+  height: 3rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffac30;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-3vgh-CEZ .rectangle-27-DQZ {
+  width: 20.9rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffac30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-3vgh-CEZ .polygon-7-8nR {
+  width: 1.3rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 16.4rem;
+  top: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-nyk3-3eV {
+  width: 114.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 463.6rem;
+  display: flex;
+  align-items: center;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-nyk3-3eV .auto-group-cjsd-xmT {
+  margin-right: 71.5rem;
+  width: 27.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-nyk3-3eV .auto-group-cjsd-xmT .write-your-review-78Z {
+  width: 21.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffac30;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-nyk3-3eV .auto-group-cjsd-xmT .rectangle-22-DBb {
+  width: 27.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffac30;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-nyk3-3eV .auto-group-ahj3-j9w {
+  width: 15.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-nyk3-3eV .auto-group-ahj3-j9w .filter-4i1 {
+  width: 6rem;
+  height: 3rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 0.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-nyk3-3eV .auto-group-ahj3-j9w .rectangle-28-msK {
+  width: 15.5rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-nyk3-3eV .auto-group-ahj3-j9w .polygon-6-gjP {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-rkqx-1Fs {
+  box-sizing: border-box;
+  padding: 0rem 39.1rem 0rem 26.2rem;
+  width: 65.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 37.2rem;
+  top: 172rem;
+  border-left: solid 0.1rem #ffffff;
+  border-right: solid 0.1rem #ffffff;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-rkqx-1Fs .line-14-Hz5 {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #ffffff;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .line-16-CbF {
+  width: 113.1rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 13.7rem;
+  top: 180.6rem;
+  background-color: #ffffff;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .line-17-Kfs {
+  width: 127.4rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 13.4rem;
+  top: 333.5rem;
+  background-color: #ffffff;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .line-18-ey3 {
+  width: 127.4rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 13.4rem;
+  top: 377.7rem;
+  background-color: #ffffff;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT {
+  width: 148.4rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 589.3rem;
+  display: flex;
+  align-items: center;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-p7ur-K3b {
+  box-sizing: border-box;
+  padding-right: 3.9rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-p7ur-K3b .auto-group-qhfb-rJR {
+  margin-right: 2.4rem;
+  width: 47.1rem;
+  height: 26.1rem;
+  position: relative;
+  border: solid 0.7rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/tikuyr7kj-1-bg.png');
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-p7ur-K3b .auto-group-qhfb-rJR .ellipse-5-NnZ {
+  width: 9.1rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 8.5rem;
+  background-color: #ffffff;
+  border-radius: 4.55rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-p7ur-K3b .auto-group-qhfb-rJR .polygon-9-hZw {
+  width: 5.8rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 9.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-p7ur-K3b .auto-group-meaq-m41 {
+  width: 46.6rem;
+  height: 26.1rem;
+  position: relative;
+  border: solid 0.7rem #ffffff;
+  box-sizing: border-box;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/yjetj-1-bg.png');
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-p7ur-K3b .auto-group-meaq-m41 .ellipse-6-uAD {
+  width: 9.3rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 18.7rem;
+  top: 8.4rem;
+  background-color: #ffffff;
+  border-radius: 4.65rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-p7ur-K3b .auto-group-meaq-m41 .polygon-10-pny {
+  width: 4.9rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 10.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-kocq-7GH {
+  width: 48.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-kocq-7GH .ytjkty-1-rUm {
+  width: 48.4rem;
+  height: 27rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.7rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-kocq-7GH .ellipse-7-PDo {
+  width: 8.8rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 22rem;
+  top: 8.7rem;
+  background-color: #ffffff;
+  border-radius: 4.4rem;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-kocq-7GH .polygon-11-K7T {
+  width: 4.6rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 24.2rem;
+  top: 10.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-kocq-7GH .rectangle-29-rdB {
+  width: 9rem;
+  height: 27.2rem;
+  position: absolute;
+  left: 30.8rem;
+  top: 0;
+  background: linear-gradient(200.14deg, #000000 9.09%, rgba(0, 0, 0, 0) 86.58%);
+}
+.macbook-pro-14-2-Qg5 .auto-group-qquh-ix5 .auto-group-uhn5-nZT .auto-group-kocq-7GH .vector-kyT {
+  width: 2.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 36rem;
+  top: 12rem;
+  object-fit: contain;
+  vertical-align: top;
+}
